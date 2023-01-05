@@ -6,8 +6,15 @@ icon: blueprint
 image: images/cover.png
 category: 
 summary: |
-  This Genesys Cloud Developer Blueprint provides a Gamification integration between Salesforce and Genesys Cloud
+This Genesys Cloud Developer Blueprint provides a Gamification integration between Salesforce and Genesys Cloud
 ---
+:::{"alert":"primary","title":"About Genesys Cloud Blueprints","autoCollapse":false} 
+Genesys Cloud blueprints were built to help you jump-start building an application or integrating with a third-party partner. 
+Blueprints are meant to outline how to build and deploy your solutions, not a production-ready turn-key solution.
+ 
+For more details on Genesys Cloud blueprint support and practices 
+please see our Genesys Cloud blueprint [FAQ](https://developer.genesys.cloud/blueprints/faq)sheet.
+:::
 
 This Genesys Cloud Developer Blueprint demonstrates how to configure external metrics in Genesys Cloud and how to use the API to update the values from Salesforce or any 3rd-party system.
 

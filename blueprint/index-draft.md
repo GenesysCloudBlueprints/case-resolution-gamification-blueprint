@@ -117,7 +117,7 @@ To associate the users in Salesforce with their Genesys Cloud user accounts, cre
 
 For more information, see [Create Custom Fields](https://help.salesforce.com/s/articleView?id=sf.adding_fields.htm&type=5 "Opens the Create Custom Fields page") in the Salesforce documentation.
 
-In this solution, the custom field is named `Genesys_Cloud_User_Id` for consistency, and the maximum length is set to 36 to match the Genesys Cloud user Id length in the UUID format.
+In this solution, the custom field is named `Genesys_Cloud_User_Id` for consistency, and the maximum length is set to 36 to match the Genesys Cloud User Id length in the UUID format.
 
 ![New Custom User field](./images/new_custom_field.png "New Custom User field")
 
